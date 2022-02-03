@@ -17,6 +17,11 @@ h2 {
     text-align: center;
 }
 
-div {
-    
+.italic {
+    font: italic;
+}
+
+.container {
+    outline-style: solid;
+    outline-color: black;
 }
